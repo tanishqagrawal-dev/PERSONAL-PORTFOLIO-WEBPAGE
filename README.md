@@ -16,9 +16,9 @@
 
 **Developer:** [Tanishq Agrawal](https://www.linkedin.com/in/tanishq-agrawal-91a505335)
 
-**Live Project:** [Click here to view](https://tanishq-124.github.io/PERSONAL-PORTFOLIO-WEBPAGE/)  
+**Live Project:** [Click here to view](https://tanishqagrawal-dev.github.io/PERSONAL-PORTFOLIO-WEBPAGE/)  
 
-**GitHub Repository:** [Click here to view](https://github.com/tanishq-124/PERSONAL-PORTFOLIO-WEBPAGE)
+**GitHub Repository:** [Click here to view](https://github.com/tanishqagrawal-dev/PERSONAL-PORTFOLIO-WEBPAGE)
 
 ---
 
@@ -53,9 +53,9 @@ This project is a **Personal Portfolio Webpage** designed to showcase my skills,
 ---
 
 ## **Projects Included**
-- **E-LEARNING-PLATFORM-UI:** [Click here to view](https://tanishq-124.github.io/E-LEARNING-PLATFORM-UI/)  
-- **INTERACTIVE-QUIZ-APPLICATION:** [Click here to view](https://tanishq-124.github.io/INTERACTIVE-QUIZ-APPLICATION/)  
-- **Smart AI Search Portal:** [Click here to view](https://tanishq-124.github.io/cs50_project1/)
+- **E-LEARNING-PLATFORM-UI:** [Click here to view](https://tanishqagrawal-dev.github.io/E-LEARNING-PLATFORM-UI/)  
+- **INTERACTIVE-QUIZ-APPLICATION:** [Click here to view](https://tanishqagrawal-dev.github.io/INTERACTIVE-QUIZ-APPLICATION/)  
+- **Smart AI Search Portal:** [Click here to view](https://tanishqagrawal-dev.github.io/cs50_project1/)
 
 ---
 
